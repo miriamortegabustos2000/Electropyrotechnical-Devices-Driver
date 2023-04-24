@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="serial_out_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ltc2358_pkg" />
+            <top_module name="serial_out_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000000 ms"></ZoomStartTime>
+      <ZoomEndTime time="5.096345515 ms"></ZoomEndTime>
+      <Cursor1Time time="1.528239203 ms"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="173"></NameColumnWidth>
+      <ValueColumnWidth column_width="91"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/serial_out_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/data" type="array">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/busy" type="logic">
+      <obj_property name="ElementShortName">busy</obj_property>
+      <obj_property name="ObjectShortName">busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/rck" type="logic">
+      <obj_property name="ElementShortName">rck</obj_property>
+      <obj_property name="ObjectShortName">rck</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/srck" type="logic">
+      <obj_property name="ElementShortName">srck</obj_property>
+      <obj_property name="ObjectShortName">srck</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/srdata" type="logic">
+      <obj_property name="ElementShortName">srdata</obj_property>
+      <obj_property name="ObjectShortName">srdata</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/period" type="other">
+      <obj_property name="ElementShortName">period</obj_property>
+      <obj_property name="ObjectShortName">period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/uut/c_nr_bits" type="other">
+      <obj_property name="ElementShortName">c_nr_bits</obj_property>
+      <obj_property name="ObjectShortName">c_nr_bits</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/uut/c_clk_div" type="other">
+      <obj_property name="ElementShortName">c_clk_div</obj_property>
+      <obj_property name="ObjectShortName">c_clk_div</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/uut/c_msb_first" type="other">
+      <obj_property name="ElementShortName">c_msb_first</obj_property>
+      <obj_property name="ObjectShortName">c_msb_first</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/uut/c_srck_pol" type="other">
+      <obj_property name="ElementShortName">c_srck_pol</obj_property>
+      <obj_property name="ObjectShortName">c_srck_pol</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/uut/c_rck_pol" type="other">
+      <obj_property name="ElementShortName">c_rck_pol</obj_property>
+      <obj_property name="ObjectShortName">c_rck_pol</obj_property>
+   </wvobject>
+   <wvobject fp_name="/serial_out_tb/uut/c_rck_pulse" type="other">
+      <obj_property name="ElementShortName">c_rck_pulse</obj_property>
+      <obj_property name="ObjectShortName">c_rck_pulse</obj_property>
+   </wvobject>
+</wave_config>

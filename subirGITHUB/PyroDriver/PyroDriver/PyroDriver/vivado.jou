@@ -1,0 +1,54 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Apr 24 20:45:54 2023
+# Process ID: 18176
+# Current directory: D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17220 D:\subirGITHUB\PyroDriver\PyroDriver\PyroDriver\PyroDriver.xpr
+# Log file: D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/vivado.log
+# Journal file: D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver\vivado.jou
+# Running On: DESKTOP-7MCQCFR, OS: Windows, CPU Frequency: 3700 MHz, CPU Physical cores: 12, Host memory: 17082 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.xpr
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim
+launch_simulation
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/pyros_state_machine_tb_behav.wcfg
+open_wave_config D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/serial_out_tb_behav.wcfg
+source serial_out_tb.tcl
+close_sim

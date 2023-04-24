@@ -1,0 +1,27 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/imports/src/ltc2358_pkg.vhd" into library work
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/system_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'system_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/new/control_mux.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'control_mux'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/new/pyros_state_machine.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pyros_state_machine'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/new/serial_out.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'serial_out'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/new/ltc2358_pyros.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ltc2358_pyros'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/new/pulse_sequence.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pulse_sequence'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sources_1/new/serializer_pyros.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'serializer_pyros'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sim_1/new/ltc2358_pyros_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ltc2358_pyros_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sim_1/new/control_mux_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'control_mux_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sim_1/new/pulse_sequence_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pulse_sequence_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sim_1/new/serializer_pyros_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'serializer_pyros_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sim_1/new/pyros_state_machine_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pyros_state_machine_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/subirGITHUB/PyroDriver/PyroDriver/PyroDriver/PyroDriver.srcs/sim_1/new/serial_out_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'serial_out_tb'

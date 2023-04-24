@@ -1,0 +1,21 @@
+# compile vhdl design source files
+vhdl work  \
+"../../../../PyroDriver.srcs/sources_1/imports/src/ltc2358_pkg.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../PyroDriver.srcs/sources_1/system_top.vhd" \
+"../../../../PyroDriver.srcs/sources_1/new/control_mux.vhd" \
+"../../../../PyroDriver.srcs/sources_1/new/pyros_state_machine.vhd" \
+"../../../../PyroDriver.srcs/sources_1/new/serial_out.vhd" \
+"../../../../PyroDriver.srcs/sources_1/new/ltc2358_pyros.vhd" \
+"../../../../PyroDriver.srcs/sources_1/new/pulse_sequence.vhd" \
+"../../../../PyroDriver.srcs/sources_1/new/serializer_pyros.vhd" \
+"../../../../PyroDriver.srcs/sim_1/new/ltc2358_pyros_tb.vhd" \
+"../../../../PyroDriver.srcs/sim_1/new/control_mux_tb.vhd" \
+"../../../../PyroDriver.srcs/sim_1/new/pulse_sequence_tb.vhd" \
+"../../../../PyroDriver.srcs/sim_1/new/serializer_pyros_tb.vhd" \
+"../../../../PyroDriver.srcs/sim_1/new/pyros_state_machine_tb.vhd" \
+"../../../../PyroDriver.srcs/sim_1/new/serial_out_tb.vhd" \
+
+# Do not sort compile order
+nosort

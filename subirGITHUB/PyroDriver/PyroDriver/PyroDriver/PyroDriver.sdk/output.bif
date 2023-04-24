@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]./fsbl/Debug/fsbl.elf
+	./system_top_hw_platform_0/system_top.bit
+	./u-boot.elf
+}
